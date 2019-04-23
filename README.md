@@ -15,7 +15,7 @@ personal credentials to the attacker.
 ## Mail Information Extractor
 The "Mail Info Extracter" folder contains the code to extract the the essential information from an unread email.
 ### Note: 
-This particular folder contains three codes.It should be made sure that all the three codes should be contained in a single folder.On running the main.py,a folder named "data" is created within which all the extracted information is stored. 
+This particular folder contains three codes.It should be made sure that all the three codes should be contained in a single folder along with the csv file "train1". Also a folder named "Data" should be created within the existing folder. On running the "Main.py" the files are created within Data folder with all the extracted mail information. Among these "Status" contains the status of the URLs present in the mail. 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
