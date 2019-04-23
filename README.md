@@ -8,3 +8,6 @@ personal credentials to the attacker.
 * The python file "shield" contains the code.
 * The csv file "train1" contains the dataset.
 * The Images folder contains all the required images.
+#### Note
+* The code runs only in Python 3 version.
+
